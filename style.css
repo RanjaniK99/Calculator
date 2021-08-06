@@ -63,8 +63,8 @@ body {
     font-size: 2.5rem;
   }
   .calculator-grid {
-    grid-template-columns: repeat(4, 120px);
-    grid-template-rows: minmax(140px, auto) repeat(5, 190px);
+    grid-template-columns: repeat(4, 230px);
+    grid-template-rows: minmax(120px, auto) repeat(5, 180px);
   }
   .output #previous {
     font-size: 1.5rem;
